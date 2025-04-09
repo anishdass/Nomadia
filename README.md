@@ -3,7 +3,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## About App
 
 A guided static web app for brushing my skills in Next.js and TailwindCSS.
-This change is from 'dev-adrian'
 
 ## Getting Started
 
