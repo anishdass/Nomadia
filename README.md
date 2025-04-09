@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 A guided static web app for brushing my skills in Next.js and TailwindCSS.
 This change is from Shruti
+This change is from Anish.
 
 ## Getting Started
 
